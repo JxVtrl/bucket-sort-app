@@ -1,9 +1,7 @@
 import React, {
   createContext,
   useContext,
-  useEffect,
   useState,
-  useRef,
 } from "react";
 import { useToast } from "@chakra-ui/react";
 
